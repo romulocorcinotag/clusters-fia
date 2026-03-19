@@ -14,3 +14,4 @@ cluster_overlap_analysis.py
 audit_missing_managers.py
 atualizar_base.py
 clustering_fia.py
+.streamlit/secrets.toml

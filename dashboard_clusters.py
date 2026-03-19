@@ -23,6 +23,7 @@ import plotly.express as px
 from sklearn.decomposition import PCA
 from sklearn.preprocessing import StandardScaler
 from sklearn.impute import SimpleImputer
+from sso_auth import require_sso
 
 # ============================================================
 # PALETA TAG (Dark Theme)
@@ -121,8 +122,10 @@ APP_DIR = os.path.dirname(os.path.abspath(__file__))
 DB_PATH = os.path.join(APP_DIR, '_dados_cvm', 'cotas_cache.db')
 HIST_PATH = os.path.join(APP_DIR, 'historico_fundos.pkl')
 
-# Logo TAG
-LOGO_SIDEBAR_PATH = os.path.join(APP_DIR, '..', 'luz_amarela', 'logo_sidebar.png')
+# Logo TAG  (local copy incluida no repo para funcionar no cloud)
+LOGO_SIDEBAR_PATH = os.path.join(APP_DIR, 'logo_sidebar.png')
+if not os.path.exists(LOGO_SIDEBAR_PATH):
+    LOGO_SIDEBAR_PATH = os.path.join(APP_DIR, '..', 'luz_amarela', 'logo_sidebar.png')
 if not os.path.exists(LOGO_SIDEBAR_PATH):
     LOGO_SIDEBAR_PATH = os.path.join(APP_DIR, '..', 'tag_logo.png')
 
@@ -2039,6 +2042,9 @@ def _apply_peer_group_filter(results_df, features_df, hist_df, selected_pg):
 
 
 def main():
+    # SSO: valida token JWT do Portal TAG Gestao
+    require_sso()
+
     inject_css()
 
     # Sidebar com logo TAG
