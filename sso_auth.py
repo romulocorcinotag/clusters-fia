@@ -573,7 +573,7 @@ def _inject_watermark(user_data: dict):
         f'<svg xmlns="http://www.w3.org/2000/svg" width="420" height="210">'
         f'<text x="210" y="105" font-family="sans-serif" font-size="13" '
         f'fill="{_TAG_TEXT_MUTED}" text-anchor="middle" dominant-baseline="middle" '
-        f'transform="rotate(-35, 210, 105)" opacity="0.35">{label}</text>'
+        f'transform="rotate(-35, 210, 105)" opacity="0.15">{label}</text>'
         f'</svg>'
     )
     svg_b64 = _b64.b64encode(svg.encode()).decode()
