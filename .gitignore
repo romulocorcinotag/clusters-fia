@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+*.db
+*.log
+_dados_cvm/
+nul
+*.xlsx
+*.csv
+BASE*
+_base_geral_rv.csv
+cluster_overlap_analysis.py
+audit_missing_managers.py
+atualizar_base.py
+clustering_fia.py

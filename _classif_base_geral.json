@@ -1,0 +1,1450 @@
+{
+  "32073525000143": {
+    "categoria": "RV Long Biased",
+    "tier": 1
+  },
+  "32071783000190": {
+    "categoria": "RV Long Biased",
+    "tier": 1
+  },
+  "11145320000156": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 1
+  },
+  "11188572000162": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 1
+  },
+  "10406511000161": {
+    "categoria": "RV Indexado Passivo",
+    "tier": 1
+  },
+  "37467515000106": {
+    "categoria": "RV Long Biased",
+    "tier": 1
+  },
+  "37467474000158": {
+    "categoria": "RV Long Biased",
+    "tier": 1
+  },
+  "10500884000105": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 1
+  },
+  "52070476000100": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 1
+  },
+  "32068007000131": {
+    "categoria": "RV Long Biased",
+    "tier": 1
+  },
+  "32064571000186": {
+    "categoria": "RV Long Biased",
+    "tier": 1
+  },
+  "16617768000149": {
+    "categoria": "RV Long Biased",
+    "tier": 1
+  },
+  "15831948000166": {
+    "categoria": "RV Long Biased",
+    "tier": 1
+  },
+  "47511351000120": {
+    "categoria": "RV Long Biased",
+    "tier": 1
+  },
+  "47512697000143": {
+    "categoria": "RV Long Biased",
+    "tier": 1
+  },
+  "15578434000140": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 2
+  },
+  "17162816000114": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 2
+  },
+  "51427627000164": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 2
+  },
+  "14438229000117": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 2
+  },
+  "09143435000160": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 2
+  },
+  "28408121000196": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 2
+  },
+  "35637151000130": {
+    "categoria": "RV Long Biased",
+    "tier": 2
+  },
+  "10406600000108": {
+    "categoria": "RV Small Caps",
+    "tier": 2
+  },
+  "25213366000170": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 2
+  },
+  "28408139000198": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 2
+  },
+  "29054793000103": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 2
+  },
+  "24325422000103": {
+    "categoria": "RV Small Caps",
+    "tier": 4
+  },
+  "26956042000194": {
+    "categoria": "RV Indexado Ativo",
+    "tier": 2
+  },
+  "18454944000102": {
+    "categoria": "RV Indexado Ativo",
+    "tier": 2
+  },
+  "22232927000190": {
+    "categoria": "RV Small Caps",
+    "tier": 2
+  },
+  "27389566000103": {
+    "categoria": "RV Small Caps",
+    "tier": 2
+  },
+  "32738755000184": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 3
+  },
+  "34172637000187": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 3
+  },
+  "34581178000195": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 3
+  },
+  "34258680000160": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 3
+  },
+  "34172683000186": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 3
+  },
+  "38065123000183": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 3
+  },
+  "38173724000100": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 3
+  },
+  "34579213000131": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 3
+  },
+  "30317454000151": {
+    "categoria": "RV Long Biased",
+    "tier": 3
+  },
+  "30317436000170": {
+    "categoria": "RV Long Biased",
+    "tier": 3
+  },
+  "73232530000139": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 3
+  },
+  "37916879000126": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 3
+  },
+  "06035405000141": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 3
+  },
+  "12987189000137": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 3
+  },
+  "08830947000131": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 3
+  },
+  "14213077000154": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 3
+  },
+  "13401715000106": {
+    "categoria": "RV Indexado Ativo",
+    "tier": 3
+  },
+  "13396819000161": {
+    "categoria": "RV Indexado Ativo",
+    "tier": 3
+  },
+  "13416245000146": {
+    "categoria": "RV Dividendos",
+    "tier": 3
+  },
+  "55705611000127": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 3
+  },
+  "55705668000126": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 3
+  },
+  "17157131000180": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 3
+  },
+  "27227810000131": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 3
+  },
+  "12565159000132": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 3
+  },
+  "13549298000135": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 3
+  },
+  "17898650000107": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 3
+  },
+  "16565056000123": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 3
+  },
+  "16565084000140": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 3
+  },
+  "15334585000153": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 3
+  },
+  "15350712000108": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 3
+  },
+  "07152170000130": {
+    "categoria": "RV Indexado Ativo",
+    "tier": 4
+  },
+  "18295384000182": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 4
+  },
+  "18324976000185": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 4
+  },
+  "39992830000188": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 4
+  },
+  "39737075000195": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 4
+  },
+  "53600329000150": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 4
+  },
+  "34839385000105": {
+    "categoria": "RV Long Biased",
+    "tier": 4
+  },
+  "31690716000191": {
+    "categoria": "RV Long Biased",
+    "tier": 4
+  },
+  "36352721000108": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 4
+  },
+  "36352677000136": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 4
+  },
+  "18302338000163": {
+    "categoria": "RV Small Caps",
+    "tier": 3
+  },
+  "55216276000101": {
+    "categoria": "RV Small Caps",
+    "tier": 3
+  },
+  "07279657000189": {
+    "categoria": "RV Indexado Ativo",
+    "tier": 4
+  },
+  "11977607000142": {
+    "categoria": "RV Indexado Ativo",
+    "tier": 4
+  },
+  "11392165000172": {
+    "categoria": "RV Small Caps",
+    "tier": 4
+  },
+  "11403884000141": {
+    "categoria": "RV Small Caps",
+    "tier": 4
+  },
+  "13974750000106": {
+    "categoria": "RV Long Biased",
+    "tier": 4
+  },
+  "13909560000105": {
+    "categoria": "RV Long Biased",
+    "tier": 4
+  },
+  "08323402000139": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 4
+  },
+  "15165493000197": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 4
+  },
+  "09577036000107": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 4
+  },
+  "11176045000138": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 4
+  },
+  "08671980000166": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 3
+  },
+  "38386961000159": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 3
+  },
+  "16948298000104": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 3
+  },
+  "11225860000140": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 3
+  },
+  "40920066000114": {
+    "categoria": "RV Long Biased",
+    "tier": 4
+  },
+  "44515943000122": {
+    "categoria": "RV Long Biased",
+    "tier": 4
+  },
+  "37487351000189": {
+    "categoria": "RV Long Biased",
+    "tier": 4
+  },
+  "37467645000149": {
+    "categoria": "RV Long Biased",
+    "tier": 4
+  },
+  "12004203000135": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 4
+  },
+  "11980010000157": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 4
+  },
+  "05964067000160": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 4
+  },
+  "12184246000140": {
+    "categoria": "RV Indexado Ativo",
+    "tier": 4
+  },
+  "18889810000106": {
+    "categoria": "RV Long Biased",
+    "tier": 4
+  },
+  "26946245000108": {
+    "categoria": "RV Long Biased",
+    "tier": 4
+  },
+  "22985059000119": {
+    "categoria": "RV Pipe",
+    "tier": 4
+  },
+  "17554200000199": {
+    "categoria": "RV Long Biased",
+    "tier": 4
+  },
+  "17554210000124": {
+    "categoria": "RV Long Biased",
+    "tier": 4
+  },
+  "28747685000153": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 4
+  },
+  "10320151000180": {
+    "categoria": "RV Small Caps",
+    "tier": 4
+  },
+  "37895385000102": {
+    "categoria": "RV Small Caps",
+    "tier": 4
+  },
+  "26768800000140": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 4
+  },
+  "10346018000101": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 4
+  },
+  "52702031000198": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 4
+  },
+  "52817512000149": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 4
+  },
+  "14113340000133": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 4
+  },
+  "32812291000109": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 4
+  },
+  "26680221000141": {
+    "categoria": "RV Long Biased",
+    "tier": 4
+  },
+  "32812459000186": {
+    "categoria": "RV Long Biased",
+    "tier": 4
+  },
+  "16816153000141": {
+    "categoria": "RV Pipe",
+    "tier": 4
+  },
+  "29994412000176": {
+    "categoria": "RV Pipe",
+    "tier": 4
+  },
+  "52116361000100": {
+    "categoria": "RV Dividendos",
+    "tier": 4
+  },
+  "56107650000195": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 4
+  },
+  "52116337000162": {
+    "categoria": "RV Dividendos",
+    "tier": 4
+  },
+  "49984812000108": {
+    "categoria": "RV Small Caps",
+    "tier": 3
+  },
+  "38954217000103": {
+    "categoria": "RV Long Biased",
+    "tier": 4
+  },
+  "40226121000170": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 2
+  },
+  "20468028000165": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 4
+  },
+  "26362460000153": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 4
+  },
+  "34719644000156": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 4
+  },
+  "27783868000161": {
+    "categoria": "RV Indexado Ativo",
+    "tier": 4
+  },
+  "28589709000193": {
+    "categoria": "RV Indexado Ativo",
+    "tier": 4
+  },
+  "07187517000180": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 4
+  },
+  "31713596000109": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 4
+  },
+  "50316445000153": {
+    "categoria": "RV Long Biased",
+    "tier": 4
+  },
+  "09285146000103": {
+    "categoria": "RV Long Biased",
+    "tier": 4
+  },
+  "09412648000140": {
+    "categoria": "RV Long Biased",
+    "tier": 4
+  },
+  "09412822000154": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 4
+  },
+  "09288254000121": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 4
+  },
+  "12282747000169": {
+    "categoria": "RV Long Biased",
+    "tier": 4
+  },
+  "12297830000101": {
+    "categoria": "RV Long Biased",
+    "tier": 4
+  },
+  "32773560000175": {
+    "categoria": "RV Long Biased",
+    "tier": 4
+  },
+  "31493876000140": {
+    "categoria": "RV Long Biased",
+    "tier": 4
+  },
+  "31493903000185": {
+    "categoria": "RV Long Biased",
+    "tier": 4
+  },
+  "29177013000112": {
+    "categoria": "RV Small Caps",
+    "tier": 4
+  },
+  "29088425000186": {
+    "categoria": "RV Small Caps",
+    "tier": 4
+  },
+  "52924585000130": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 4
+  },
+  "52596720000165": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 4
+  },
+  "26269603000187": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 4
+  },
+  "26859564000178": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 4
+  },
+  "08940189000104": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 4
+  },
+  "08927452000125": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 4
+  },
+  "13962947000125": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 4
+  },
+  "22041216000138": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 4
+  },
+  "34790765000194": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 4
+  },
+  "34791421000108": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 4
+  },
+  "45126846000100": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 4
+  },
+  "45127383000100": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 4
+  },
+  "60018334000114": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 4
+  },
+  "60015897000159": {
+    "categoria": "RV Long Biased",
+    "tier": 4
+  },
+  "09599346000122": {
+    "categoria": "RV Dividendos",
+    "tier": 5
+  },
+  "09550197000107": {
+    "categoria": "RV Small Caps",
+    "tier": 5
+  },
+  "07124064000143": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 5
+  },
+  "11361553000196": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 5
+  },
+  "12987743000186": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 5
+  },
+  "12055107000116": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 5
+  },
+  "15334577000107": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 5
+  },
+  "13950080000198": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 5
+  },
+  "07670115000132": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 5
+  },
+  "04515848000104": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 5
+  },
+  "03168062000103": {
+    "categoria": "RV Dividendos",
+    "tier": 5
+  },
+  "36352662000178": {
+    "categoria": "RV Dividendos",
+    "tier": 5
+  },
+  "17249227000178": {
+    "categoria": "RV Long Biased",
+    "tier": 5
+  },
+  "21360513000183": {
+    "categoria": "RV Long Biased",
+    "tier": 5
+  },
+  "20183830000109": {
+    "categoria": "RV Long Biased",
+    "tier": 5
+  },
+  "13083227000190": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 5
+  },
+  "11046170000123": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 5
+  },
+  "36182298000145": {
+    "categoria": "RV Long Biased",
+    "tier": 5
+  },
+  "08892340000186": {
+    "categoria": "RV Small Caps",
+    "tier": 5
+  },
+  "12823607000150": {
+    "categoria": "RV Small Caps",
+    "tier": 5
+  },
+  "09635172000106": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 5
+  },
+  "09635130000175": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 5
+  },
+  "05100191000187": {
+    "categoria": "RV Dividendos",
+    "tier": 5
+  },
+  "05100230000146": {
+    "categoria": "RV Dividendos",
+    "tier": 5
+  },
+  "00822059000165": {
+    "categoria": "RV Indexado Ativo",
+    "tier": 5
+  },
+  "08973963000183": {
+    "categoria": "RV Indexado Ativo",
+    "tier": 5
+  },
+  "05100221000155": {
+    "categoria": "RV Small Caps",
+    "tier": 5
+  },
+  "05100234000124": {
+    "categoria": "RV Small Caps",
+    "tier": 5
+  },
+  "97543707000186": {
+    "categoria": "RV Indexado Passivo",
+    "tier": 5
+  },
+  "12239939000192": {
+    "categoria": "RV Long Biased",
+    "tier": 5
+  },
+  "12241282000106": {
+    "categoria": "RV Long Biased",
+    "tier": 5
+  },
+  "11108013000103": {
+    "categoria": "RV Small Caps",
+    "tier": 5
+  },
+  "06916384000173": {
+    "categoria": "RV Dividendos",
+    "tier": 5
+  },
+  "10601479000175": {
+    "categoria": "RV Indexado Ativo",
+    "tier": 5
+  },
+  "02138442000124": {
+    "categoria": "RV Dividendos",
+    "tier": 5
+  },
+  "08154725000146": {
+    "categoria": "RV Small Caps",
+    "tier": 5
+  },
+  "07986196000184": {
+    "categoria": "RV Small Caps",
+    "tier": 5
+  },
+  "14099976000178": {
+    "categoria": "RV Indexado Ativo",
+    "tier": 5
+  },
+  "09564065000134": {
+    "categoria": "RV Indexado Ativo",
+    "tier": 5
+  },
+  "03473193000196": {
+    "categoria": "RV Indexado Ativo",
+    "tier": 5
+  },
+  "03660879000196": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 5
+  },
+  "21347683000128": {
+    "categoria": "RV Indexado Ativo",
+    "tier": 5
+  },
+  "06070574000112": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 5
+  },
+  "16993142000137": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 5
+  },
+  "09120774000120": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 5
+  },
+  "12976456000170": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 5
+  },
+  "11977794000164": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 5
+  },
+  "17009959000190": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 5
+  },
+  "09290813000138": {
+    "categoria": "RV Dividendos",
+    "tier": 5
+  },
+  "18969955000117": {
+    "categoria": "RV Dividendos",
+    "tier": 5
+  },
+  "52032586000170": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 5
+  },
+  "51996104000139": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 5
+  },
+  "19773986000160": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 5
+  },
+  "23591953000177": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 5
+  },
+  "11357735000193": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 5
+  },
+  "11182064000177": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 5
+  },
+  "05586710000169": {
+    "categoria": "RV Dividendos",
+    "tier": 5
+  },
+  "14781411000176": {
+    "categoria": "RV Dividendos",
+    "tier": 5
+  },
+  "03408336000186": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 5
+  },
+  "09639943000133": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 5
+  },
+  "30858733000122": {
+    "categoria": "RV Indexado Ativo",
+    "tier": 5
+  },
+  "31635364000171": {
+    "categoria": "RV Indexado Ativo",
+    "tier": 5
+  },
+  "00601692000123": {
+    "categoria": "RV Small Caps",
+    "tier": 5
+  },
+  "09441424000166": {
+    "categoria": "RV Small Caps",
+    "tier": 5
+  },
+  "11186674000149": {
+    "categoria": "RV Indexado Ativo",
+    "tier": 5
+  },
+  "12698541000114": {
+    "categoria": "RV Indexado Ativo",
+    "tier": 5
+  },
+  "21917184000129": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 5
+  },
+  "21917206000150": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 5
+  },
+  "08156530000135": {
+    "categoria": "RV Indexado Ativo",
+    "tier": 5
+  },
+  "09217033000162": {
+    "categoria": "RV Indexado Ativo",
+    "tier": 5
+  },
+  "02895694000106": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 5
+  },
+  "30506097000170": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 5
+  },
+  "18832871000137": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 5
+  },
+  "41569841000100": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 5
+  },
+  "18832869000168": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 5
+  },
+  "18833014000151": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 5
+  },
+  "07317588000150": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 5
+  },
+  "28767201000138": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 5
+  },
+  "22662135000155": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 5
+  },
+  "35939458000195": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 5
+  },
+  "06170653000103": {
+    "categoria": "RV Long Biased",
+    "tier": 5
+  },
+  "08279304000141": {
+    "categoria": "RV Dividendos",
+    "tier": 5
+  },
+  "06224719000192": {
+    "categoria": "RV Indexado Ativo",
+    "tier": 5
+  },
+  "17335646000122": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 5
+  },
+  "17335645000188": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 5
+  },
+  "12082452000149": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 3
+  },
+  "11435298000189": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 3
+  },
+  "05936530000160": {
+    "categoria": "RV Long Biased",
+    "tier": 5
+  },
+  "11456177000113": {
+    "categoria": "RV Long Biased",
+    "tier": 5
+  },
+  "06258544000134": {
+    "categoria": "RV Dividendos",
+    "tier": 5
+  },
+  "02887290000162": {
+    "categoria": "RV Dividendos",
+    "tier": 5
+  },
+  "24571992000175": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 5
+  },
+  "18138837000167": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 5
+  },
+  "23731629000107": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 5
+  },
+  "09094073000164": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 5
+  },
+  "07177193000108": {
+    "categoria": "RV Small Caps",
+    "tier": 5
+  },
+  "30419172000165": {
+    "categoria": "RV Small Caps",
+    "tier": 5
+  },
+  "10263612000120": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 5
+  },
+  "05941167000170": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 5
+  },
+  "06935532000105": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 5
+  },
+  "07266253000150": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 5
+  },
+  "11361527000168": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 5
+  },
+  "09143318000104": {
+    "categoria": "RV Long Biased",
+    "tier": 5
+  },
+  "09271730000100": {
+    "categoria": "RV Long Biased",
+    "tier": 5
+  },
+  "11228311000129": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 5
+  },
+  "11228490000102": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 5
+  },
+  "37830181000193": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 5
+  },
+  "37830134000140": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 5
+  },
+  "32295931000150": {
+    "categoria": "RV Long Biased",
+    "tier": 5
+  },
+  "32041670000142": {
+    "categoria": "RV Long Biased",
+    "tier": 5
+  },
+  "11182072000113": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 5
+  },
+  "15559384000154": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 5
+  },
+  "14083797000142": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 5
+  },
+  "14126355000136": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 5
+  },
+  "17002861000101": {
+    "categoria": "RV Long Biased",
+    "tier": 5
+  },
+  "17039320000158": {
+    "categoria": "RV Long Biased",
+    "tier": 5
+  },
+  "09296009000166": {
+    "categoria": "RV Indexado Ativo",
+    "tier": 5
+  },
+  "09296022000115": {
+    "categoria": "RV Small Caps",
+    "tier": 5
+  },
+  "37240673000129": {
+    "categoria": "RV Pipe",
+    "tier": 5
+  },
+  "07899238000140": {
+    "categoria": "RV Indexado Ativo",
+    "tier": 5
+  },
+  "20658576000158": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 5
+  },
+  "26491395000166": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 5
+  },
+  "19186860000190": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 5
+  },
+  "18981190000130": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 5
+  },
+  "06118222000190": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 5
+  },
+  "29599351000142": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 5
+  },
+  "11961199000130": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 5
+  },
+  "20889133000178": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 5
+  },
+  "14068366000107": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 5
+  },
+  "14138786000112": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 5
+  },
+  "26559191000110": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 5
+  },
+  "22106367000127": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 5
+  },
+  "11616482000125": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 5
+  },
+  "18525868000170": {
+    "categoria": "RV Long Biased",
+    "tier": 5
+  },
+  "18525753000186": {
+    "categoria": "RV Long Biased",
+    "tier": 5
+  },
+  "00185259000154": {
+    "categoria": "RV Indexado Ativo",
+    "tier": 5
+  },
+  "09720835000190": {
+    "categoria": "RV Indexado Ativo",
+    "tier": 5
+  },
+  "13106983000197": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 5
+  },
+  "06964937000163": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 5
+  },
+  "20055468000190": {
+    "categoria": "RV Pipe",
+    "tier": 5
+  },
+  "20030712000160": {
+    "categoria": "RV Pipe",
+    "tier": 5
+  },
+  "09401978000130": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 5
+  },
+  "46171852000142": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 5
+  },
+  "10608762000129": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 5
+  },
+  "11952800000129": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 5
+  },
+  "11898280000113": {
+    "categoria": "RV Dividendos",
+    "tier": 5
+  },
+  "07914903000127": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 5
+  },
+  "27347332000101": {
+    "categoria": "RV Long Biased",
+    "tier": 5
+  },
+  "32772397000126": {
+    "categoria": "RV Long Biased",
+    "tier": 5
+  },
+  "16987508000165": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 5
+  },
+  "27250923000158": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 5
+  },
+  "07420595000183": {
+    "categoria": "RV Small Caps",
+    "tier": 5
+  },
+  "10158171000105": {
+    "categoria": "RV Long Biased",
+    "tier": 5
+  },
+  "22899381000125": {
+    "categoria": "RV Long Biased",
+    "tier": 5
+  },
+  "10225709000149": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 5
+  },
+  "14476736000145": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 5
+  },
+  "06234360000134": {
+    "categoria": "RV Indexado Ativo",
+    "tier": 5
+  },
+  "16617511000197": {
+    "categoria": "RV Indexado Ativo",
+    "tier": 5
+  },
+  "05857973000165": {
+    "categoria": "RV Small Caps",
+    "tier": 5
+  },
+  "16617472000128": {
+    "categoria": "RV Small Caps",
+    "tier": 5
+  },
+  "18603991000162": {
+    "categoria": "RV Long Biased",
+    "tier": 5
+  },
+  "13455136000138": {
+    "categoria": "RV Dividendos",
+    "tier": 5
+  },
+  "13455174000190": {
+    "categoria": "RV Dividendos",
+    "tier": 5
+  },
+  "01699688000102": {
+    "categoria": "RV Indexado Ativo",
+    "tier": 5
+  },
+  "02832973000112": {
+    "categoria": "RV Indexado Ativo",
+    "tier": 5
+  },
+  "04073702000156": {
+    "categoria": "RV Indexado Passivo",
+    "tier": 5
+  },
+  "15323164000127": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 5
+  },
+  "02444266000159": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 5
+  },
+  "08912569000135": {
+    "categoria": "RV Indexado Ativo",
+    "tier": 4
+  },
+  "32318881000180": {
+    "categoria": "RV Indexado Ativo",
+    "tier": 4
+  },
+  "18816501000106": {
+    "categoria": "RV Long Biased",
+    "tier": 5
+  },
+  "14550994000124": {
+    "categoria": "RV Indexado Ativo",
+    "tier": 5
+  },
+  "17164804000129": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 5
+  },
+  "11225767000135": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 5
+  },
+  "11286540000108": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 5
+  },
+  "44157044000103": {
+    "categoria": "RV Long Biased",
+    "tier": 5
+  },
+  "44643074000111": {
+    "categoria": "RV Long Biased",
+    "tier": 5
+  },
+  "11458144000102": {
+    "categoria": "RV Indexado Ativo",
+    "tier": 5
+  },
+  "13001237000139": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 5
+  },
+  "16892122000170": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 5
+  },
+  "17797426000110": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 5
+  },
+  "28419514000103": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 5
+  },
+  "27729617000107": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 5
+  },
+  "34713026000107": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 5
+  },
+  "36771013000101": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 5
+  },
+  "09141867000131": {
+    "categoria": "RV Long Biased",
+    "tier": 5
+  },
+  "33589828000186": {
+    "categoria": "RV Long Biased",
+    "tier": 5
+  },
+  "00906044000185": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 5
+  },
+  "11046362000130": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 5
+  },
+  "29177024000100": {
+    "categoria": "RV Dividendos",
+    "tier": 5
+  },
+  "29088410000118": {
+    "categoria": "RV Dividendos",
+    "tier": 5
+  },
+  "05382556000103": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 5
+  },
+  "17439235000187": {
+    "categoria": "RV Long Biased",
+    "tier": 5
+  },
+  "07488106000125": {
+    "categoria": "RV Dividendos",
+    "tier": 5
+  },
+  "12287682000144": {
+    "categoria": "RV Dividendos",
+    "tier": 5
+  },
+  "28581159000166": {
+    "categoria": "RV Long Biased",
+    "tier": 5
+  },
+  "28581136000151": {
+    "categoria": "RV Long Biased",
+    "tier": 5
+  },
+  "30593403000152": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 5
+  },
+  "30630170000110": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 5
+  },
+  "21329166000126": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 5
+  },
+  "34507968000120": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 5
+  },
+  "09087483000188": {
+    "categoria": "RV Dividendos",
+    "tier": 5
+  },
+  "01789400000190": {
+    "categoria": "RV Indexado Ativo",
+    "tier": 5
+  },
+  "09087523000191": {
+    "categoria": "RV Valor/Retorno Absoluto",
+    "tier": 5
+  },
+  "09217025000116": {
+    "categoria": "RV Small Caps",
+    "tier": 5
+  },
+  "01063897000165": {
+    "categoria": "RV Small Caps",
+    "tier": 5
+  },
+  "16575255000112": {
+    "categoria": "RV Dividendos",
+    "tier": 5
+  },
+  "18961491000100": {
+    "categoria": "RV Long Biased",
+    "tier": 5
+  },
+  "36492446000128": {
+    "categoria": "RV Long Biased",
+    "tier": 5
+  },
+  "36247795000184": {
+    "categoria": "RV Long Biased",
+    "tier": 5
+  }
+}
