@@ -562,19 +562,27 @@ def render_access_denied():
 
 
 def _inject_watermark(user_data: dict):
-    """Inject a subtle watermark with the user's identity on every page."""
+    """Inject a diagonal tiled watermark with the user's identity on every page."""
+    import base64 as _b64
     nome = user_data.get("nome", "")
     email = user_data.get("email", "")
-    if nome or email:
-        st.markdown(
-            f'<div style="position:fixed;bottom:8px;right:16px;z-index:9999;'
-            f'color:{_TAG_TEXT_MUTED};font-size:0.72rem;font-weight:500;'
-            f'pointer-events:none;letter-spacing:0.02em;'
-            f'opacity:0.7">'
-            f'Acesso: {nome} ({email})'
-            f'</div>',
-            unsafe_allow_html=True,
-        )
+    if not (nome or email):
+        return
+    label = f"Acesso: {nome} ({email})"
+    svg = (
+        f'<svg xmlns="http://www.w3.org/2000/svg" width="420" height="210">'
+        f'<text x="210" y="105" font-family="sans-serif" font-size="13" '
+        f'fill="{_TAG_TEXT_MUTED}" text-anchor="middle" dominant-baseline="middle" '
+        f'transform="rotate(-35, 210, 105)" opacity="0.35">{label}</text>'
+        f'</svg>'
+    )
+    svg_b64 = _b64.b64encode(svg.encode()).decode()
+    st.markdown(
+        f'<div style="position:fixed;top:0;left:0;width:100vw;height:100vh;'
+        f'z-index:9998;pointer-events:none;'
+        f'background:url(\'data:image/svg+xml;base64,{svg_b64}\') repeat;"></div>',
+        unsafe_allow_html=True,
+    )
 
 
 def require_sso() -> dict:
